@@ -1,0 +1,11 @@
+{
+  "name": "medsci-skills",
+  "description": "Medical/scientific research skill bundle (40 skills) — IMRAD writing, statistics, meta-analysis, reporting-guideline QC, journal targeting.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Aperivue (upstream)"
+  },
+  "homepage": "https://github.com/Ahingsun/medsci-skills",
+  "license": "MIT",
+  "skills": "./skills"
+}
