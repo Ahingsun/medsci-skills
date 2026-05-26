@@ -1,0 +1,20 @@
+{
+  "name": "medsci-skills",
+  "owner": {
+    "name": "Ahingsun"
+  },
+  "description": "Medical/scientific research skill bundle for Claude Code and Cowork (personal fork of Aperivue/medsci-skills with marketplace packaging).",
+  "plugins": [
+    {
+      "name": "medsci-skills",
+      "source": "./",
+      "description": "40-skill bundle covering the full medical research pipeline: search-lit, design-study, analyze-stats, write-paper, self-review, check-reporting, manage-refs, find-journal, and 32 others.",
+      "version": "1.0.0",
+      "homepage": "https://github.com/Ahingsun/medsci-skills",
+      "repository": "https://github.com/Ahingsun/medsci-skills",
+      "license": "MIT",
+      "keywords": ["medical", "research", "scientific-writing", "meta-analysis", "irb", "radiology", "clinical-ai"],
+      "category": "research"
+    }
+  ]
+}
